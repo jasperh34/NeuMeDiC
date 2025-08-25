@@ -1,6 +1,6 @@
 # NeuMeDiC
 
-# Fitbit Data Dashboard
+# Fitbit and Glucose Data Dashboard
 
 This is a PyQt5-based interactive dashboard for visualising Fitbit data, continuous glucose monitoring data, and non-invasive vagus nerve stimulation intervals, in the wider context of the NeuMeDiC project. It allows users to view individual or combined participant data across daily, hourly, or minute-level resolution.
 
