@@ -1,0 +1,8 @@
+﻿Index,Timestamp (YYYY-MM-DDThh:mm:ss),Event Type,Event Subtype,Patient Info,Device Info,Source Device ID,Glucose Value (mmol/L),Insulin Value (u),Carb Value (grams),Duration (hh:mm:ss),Glucose Rate of Change (mmol/L/min),Transmitter Time (Long Integer),Transmitter ID
+1,,FirstName,,,,,,,,,,,
+2,,LastName,,,,,,,,,,,
+3,,Device,,,Dexcom ONE+ Receiver,PG504G07DC00001597,,,,,,,
+4,,Alert,High,,,PG504G07DC00001597,,,,,,,
+5,,Alert,Low,,,PG504G07DC00001597,,,,,,,
+6,,Alert,Signal Loss,,,PG504G07DC00001597,,,,00:20:00,,,
+7,,EGV,,,,PG504G07DC00001597,,,,,,,
