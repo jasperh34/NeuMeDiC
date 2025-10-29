@@ -1,0 +1,12 @@
+# --- Ignore everything ---
+*
+
+# --- But allow code and metadata files ---
+!Scripts/
+!README.md
+!requirements.txt
+!.gitignore
+
+# Optional: if you have notebooks or docs
+!*.ipynb
+!docs/
