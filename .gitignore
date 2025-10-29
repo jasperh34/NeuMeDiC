@@ -3,7 +3,6 @@
 
 # --- But allow code and metadata files ---
 !Scripts/
-!README.md
 !requirements.txt
 !.gitignore
 
