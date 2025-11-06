@@ -8,3 +8,5 @@ if __name__ == "__main__":
     dash = FitbitDashboard()
     dash.show()
     sys.exit(app.exec_())
+
+
